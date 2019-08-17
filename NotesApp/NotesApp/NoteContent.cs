@@ -4,6 +4,7 @@ namespace NotesApp
 {
     public static class NoteContent
     {
+        //Dummy data for the application
         public static List<string> Names = new List<string>()
         {
             "Note 1",

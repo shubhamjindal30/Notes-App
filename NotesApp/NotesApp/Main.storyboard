@@ -72,23 +72,30 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="mhw-Of-X5C">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="mhw-Of-X5C">
                                 <rect key="frame" x="20" y="174" width="374" height="627"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Note Label" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="EmJ-iI-TTK">
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Note Label" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="EmJ-iI-TTK">
                                 <rect key="frame" x="20" y="123" width="374" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="EmJ-iI-TTK" firstAttribute="top" secondItem="DN1-o7-QnX" secondAttribute="bottom" constant="35" id="6Kk-7n-aWC"/>
+                            <constraint firstItem="mhw-Of-X5C" firstAttribute="centerX" secondItem="EmJ-iI-TTK" secondAttribute="centerX" id="HkY-vU-bro"/>
+                            <constraint firstItem="5ka-Rp-Kml" firstAttribute="top" secondItem="mhw-Of-X5C" secondAttribute="bottom" constant="61" id="RJX-Wd-NNx"/>
+                            <constraint firstItem="EmJ-iI-TTK" firstAttribute="width" secondItem="pjp-sd-jHz" secondAttribute="height" multiplier="187:448" id="Va0-at-8Am"/>
+                            <constraint firstItem="mhw-Of-X5C" firstAttribute="top" secondItem="EmJ-iI-TTK" secondAttribute="bottom" constant="21" id="Vem-42-Pqf"/>
+                            <constraint firstItem="EmJ-iI-TTK" firstAttribute="centerX" secondItem="pjp-sd-jHz" secondAttribute="centerX" id="esK-fn-DrB"/>
+                            <constraint firstItem="mhw-Of-X5C" firstAttribute="width" secondItem="EmJ-iI-TTK" secondAttribute="height" multiplier="187:15" id="l61-EQ-mmJ"/>
+                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="New Note" id="lig-IB-lda">
                         <barButtonItem key="leftBarButtonItem" systemItem="cancel" id="mJf-OX-hNl">

@@ -1,5 +1,5 @@
-"--cache=/Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/mtouch-cache"
-"--sim=/Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/bin/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/NotesApp.app"
+--cache=/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/mtouch-cache
+--sim=/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/bin/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/NotesApp.app
 --executable=NotesApp
  --debug
  --sgen-conc
@@ -10,7 +10,7 @@
  --aot-options=-O=-float32
  --http-message-handler=NSUrlSessionHandler
  --abi=x86_64
-"--symbollist=/Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/mtouch-symbols.list"
+--symbollist=/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/mtouch-symbols.list
  --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
@@ -23,5 +23,5 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
 -r=/Users/Shubham/.nuget/packages/xamarin.essentials/1.1.0/lib/xamarinios10/Xamarin.Essentials.dll
  --target-framework=Xamarin.iOS,v1.0
-"--root-assembly=/Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/bin/iPhoneSimulator/Debug/NotesApp.exe"
+--root-assembly=/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/bin/iPhoneSimulator/Debug/NotesApp.exe
  

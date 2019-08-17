@@ -36,12 +36,6 @@ namespace NotesApp
             string NameSelected = Names[indexPath.Row];
             string ContentSelected = Content[indexPath.Row];
 
-            //DetailController detailController = new DetailController(NameSelected, ContentSelected);
-            //ParentViewController.Storyboard.InstantiateViewController("DetailView");
-            //ParentViewController.NavigationController.PushViewController(detailController, true);
-            //new UIAlertView(NameSelected, ContentSelected, null, "Ok", null).Show();
-            //tableView.DeselectRow(indexPath, true);
-
             var alert = UIAlertController.Create("Edit Note", "", UIAlertControllerStyle.Alert);
             alert.AddTextField((obj) =>
             {
@@ -61,6 +55,7 @@ namespace NotesApp
             {
                 tableView.DeselectRow(indexPath, true);
             }));
+
             ParentViewController.PresentViewController(alert, true, null);
 
         }

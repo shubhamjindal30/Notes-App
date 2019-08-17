@@ -1,18 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/ibtool-link/Main.storyboardc/8Wl-30-2rq-view-5ln-im-50f.nib">
-      <LogicalName>Main.storyboardc/8Wl-30-2rq-view-5ln-im-50f.nib</LogicalName>
-      <Optimize>false</Optimize>
-      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/ibtool-link/Main.storyboardc</OriginalItemSpec>
-    </_BundleResourceWithLogicalName>
     <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/ibtool-link/Main.storyboardc/m3o-Zp-uHb-view-pjp-sd-jHz.nib">
       <LogicalName>Main.storyboardc/m3o-Zp-uHb-view-pjp-sd-jHz.nib</LogicalName>
-      <Optimize>false</Optimize>
-      <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/ibtool-link/Main.storyboardc</OriginalItemSpec>
-    </_BundleResourceWithLogicalName>
-    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/ibtool-link/Main.storyboardc/DetailView.nib">
-      <LogicalName>Main.storyboardc/DetailView.nib</LogicalName>
       <Optimize>false</Optimize>
       <OriginalItemSpec>obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/ibtool-link/Main.storyboardc</OriginalItemSpec>
     </_BundleResourceWithLogicalName>

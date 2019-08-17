@@ -13,3 +13,18 @@
 /Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/NotesApp.csproj.CopyComplete
 /Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/NotesApp.exe
 /Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/NotesApp.pdb
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/bin/iPhoneSimulator/Debug/NotesApp.exe
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/bin/iPhoneSimulator/Debug/NotesApp.pdb
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/actool/_PartialAppManifest.items
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/actool/_BundleResourceWithLogicalName.items
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/coremlc/_PartialAppManifest.items
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/optimized/
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/NotesApp.csprojAssemblyReference.cache
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/NotesApp.csproj.CoreCompileInputs.cache
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/NotesApp.csproj.CopyComplete
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/NotesApp.exe
+/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/iPhoneSimulator/Debug/NotesApp.pdb
