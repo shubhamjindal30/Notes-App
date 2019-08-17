@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/NotesApp.csproj": {}
+    "/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/NotesApp.csproj": {}
   },
   "projects": {
-    "/Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/NotesApp.csproj": {
+    "/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/NotesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/NotesApp.csproj",
+        "projectUniqueName": "/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/NotesApp.csproj",
         "projectName": "NotesApp",
-        "projectPath": "/Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/NotesApp.csproj",
+        "projectPath": "/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/NotesApp.csproj",
         "packagesPath": "/Users/Shubham/.nuget/packages/",
-        "outputPath": "/Users/Shubham/Desktop/Notes App/NotesApp/NotesApp/obj/",
+        "outputPath": "/Users/Shubham/Desktop/GitHub/Notes-App/NotesApp/NotesApp/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

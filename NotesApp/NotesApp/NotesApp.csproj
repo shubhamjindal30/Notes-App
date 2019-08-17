@@ -137,10 +137,6 @@
         </Compile>
         <Compile Include="NoteContent.cs" />
         <Compile Include="TableViewSource.cs" />
-        <Compile Include="DetailController.cs" />
-        <Compile Include="DetailController.designer.cs">
-          <DependentUpon>DetailController.cs</DependentUpon>
-        </Compile>
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
