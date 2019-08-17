@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2BB81E9C-D2CD-45E0-B5DA-C8AC139C1699}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotesApp/ViewController.cs">
+    <Files>
+      <File FileName="NotesApp/ViewController.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotesApp" expanded="True">
+            <Node name="NotesApp" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../NotesApp/DetailController.designer.cs" line="14" offsetX="-1" offsetY="-1" expression="ContentOfNote" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.NotesApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38A20F89-F363-4660-A12F-1E8297CD2E19" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
