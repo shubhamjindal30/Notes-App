@@ -91,6 +91,9 @@
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\icon76-1.png" />
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\icon76%402x.png" />
         <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\icon835%402x.png" />
+        <ImageAsset Include="Resources\Assets.xcassets\Contents.json" />
+        <ImageAsset Include="Resources\Assets.xcassets\NotesApp.imageset\NotesApp.png" />
+        <ImageAsset Include="Resources\Assets.xcassets\NotesApp.imageset\Contents.json" />
     </ItemGroup>
     <ItemGroup>
         <Folder Include="Resources\" />
