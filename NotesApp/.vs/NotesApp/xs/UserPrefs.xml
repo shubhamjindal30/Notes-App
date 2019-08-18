@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{2BB81E9C-D2CD-45E0-B5DA-C8AC139C1699}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NotesApp/NewNote.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="NotesApp/ViewController.cs" Line="27" Column="1" />
-      <File FileName="NotesApp/TableViewSource.cs" Line="58" Column="1" />
-      <File FileName="NotesApp/NoteContent.cs" Line="7" Column="41" />
+      <File FileName="NotesApp/TableViewSource.cs" />
+      <File FileName="NotesApp/NoteContent.cs" />
       <File FileName="NotesApp/NewNote.cs" Line="1" Column="1" />
     </Files>
     <Pads>
@@ -11,7 +11,7 @@
         <State name="__root__">
           <Node name="NotesApp" expanded="True">
             <Node name="NotesApp" expanded="True">
-              <Node name="NewNote.cs" selected="True" />
+              <Node name="Assets.xcassets" selected="True" />
               <Node name="ViewController.cs" expanded="True" />
             </Node>
           </Node>
