@@ -1,19 +1,18 @@
 ﻿<Properties StartupConfiguration="{2BB81E9C-D2CD-45E0-B5DA-C8AC139C1699}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NotesApp/Main.storyboard">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotesApp/NewNote.cs">
     <Files>
+      <File FileName="NotesApp/Main.storyboard" />
+      <File FileName="NotesApp/NoteContent.cs" Line="1" Column="1" />
       <File FileName="NotesApp/ViewController.cs" Line="27" Column="1" />
       <File FileName="NotesApp/TableViewSource.cs" Line="36" Column="40" />
-      <File FileName="NotesApp/NoteContent.cs" Line="1" Column="1" />
       <File FileName="NotesApp/NewNote.cs" Line="18" Column="1" />
-      <File FileName="NotesApp/Main.storyboard" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NotesApp" expanded="True">
             <Node name="NotesApp" expanded="True">
-              <Node name="Main.storyboard" selected="True" />
-              <Node name="ViewController.cs" expanded="True" />
+              <Node name="NewNote.cs" selected="True" />
             </Node>
           </Node>
         </State>
