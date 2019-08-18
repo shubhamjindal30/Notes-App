@@ -15,6 +15,7 @@ namespace NotesApp
             Content = NoteContent.Content;
         }
 
+        //Fill data into the cells of tableView
         public override UITableViewCell GetCell(UITableView tableView, NSIndexPath indexPath)
         {
             UITableViewCell cell = tableView.DequeueReusableCell("cell");
@@ -26,11 +27,13 @@ namespace NotesApp
             return cell;
         }
 
+        //Get the number of cells which will contain data in the tableView
         public override nint RowsInSection(UITableView tableview, nint section)
         {
             return Names.Count;
         }
 
+        //Set the touch action on cells
         public override void RowSelected(UITableView tableView, NSIndexPath indexPath)
         {
             string NameSelected = Names[indexPath.Row];
